@@ -2,7 +2,7 @@
 
 ## Current behavior
 
-Renovate says: `Could not determine new digest for update ` when it tries to update `actions/checkout` from `v4.1.0` -> `v4.1.1`.
+Renovate says: `Could not determine new digest for update` when it tries to update `actions/checkout` from `v4.1.0` -> `v4.1.1`.
 Here's the relevant part of the update PR from Renovate:
 
 This PR contains the following updates:
